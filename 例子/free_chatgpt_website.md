@@ -5,6 +5,7 @@
 
 - https://chat.forchange.cn/
 - https://94gpt.com/
+- https://chat.starstar.store/
 - https://askai.ws/
 - https://chat.51buygpt.com/
 - http://v.ourwechat.com/chatgpt.html
